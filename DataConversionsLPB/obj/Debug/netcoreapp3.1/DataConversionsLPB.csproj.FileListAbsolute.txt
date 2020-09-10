@@ -1,0 +1,17 @@
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\bin\Debug\netcoreapp3.1\DataConversionsLPB.exe
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\bin\Debug\netcoreapp3.1\DataConversionsLPB.deps.json
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\bin\Debug\netcoreapp3.1\DataConversionsLPB.runtimeconfig.json
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\bin\Debug\netcoreapp3.1\DataConversionsLPB.runtimeconfig.dev.json
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\bin\Debug\netcoreapp3.1\DataConversionsLPB.dll
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\bin\Debug\netcoreapp3.1\DataConversionsLPB.pdb
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB.csprojAssemblyReference.cache
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB_MarkupCompile.cache
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB_MarkupCompile.lref
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB.g.resources
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB.AssemblyInfoInputs.cache
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB.AssemblyInfo.cs
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB.dll
+C:\Users\MaconRM180\Desktop\Lucas Bramer\DataConversionsLPB\obj\Debug\netcoreapp3.1\DataConversionsLPB.pdb
