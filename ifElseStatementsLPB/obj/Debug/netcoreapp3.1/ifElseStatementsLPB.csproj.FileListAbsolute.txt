@@ -1,0 +1,17 @@
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\bin\Debug\netcoreapp3.1\ifElseStatementsLPB.exe
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\bin\Debug\netcoreapp3.1\ifElseStatementsLPB.deps.json
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\bin\Debug\netcoreapp3.1\ifElseStatementsLPB.runtimeconfig.json
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\bin\Debug\netcoreapp3.1\ifElseStatementsLPB.runtimeconfig.dev.json
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\bin\Debug\netcoreapp3.1\ifElseStatementsLPB.dll
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\bin\Debug\netcoreapp3.1\ifElseStatementsLPB.pdb
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB.csprojAssemblyReference.cache
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB_MarkupCompile.cache
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB_MarkupCompile.lref
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB.g.resources
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB.AssemblyInfoInputs.cache
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB.AssemblyInfo.cs
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB.dll
+C:\Users\MaconRM180\Desktop\Lucas Bramer\ifElseStatementsLPB\obj\Debug\netcoreapp3.1\ifElseStatementsLPB.pdb
